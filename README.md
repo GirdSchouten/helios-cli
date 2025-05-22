@@ -18,7 +18,7 @@
 ## Installation
 
 ````shell
-npm install -g @heliosfoundation/helios-cli
+npm install -g @helios-chain-labs/helios-cli
 ````
 
 ## Usage
