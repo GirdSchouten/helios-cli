@@ -21,8 +21,11 @@
   "author": "Guyet Jeremy <jguyet@linepicplus.com>",
   "license": "MIT",
   "dependencies": {
+    "@ethersproject/json-wallets": "^5.8.0",
+    "@helios-chain-labs/address-converter": "^0.1.0",
     "connect-livereload": "^0.6.1",
     "del": "^6.0.0",
+    "ethers": "^6.13.4",
     "express": "^4.17.1",
     "glob": "^7.1.6",
     "livereload": "^0.9.1",
