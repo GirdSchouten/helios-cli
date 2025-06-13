@@ -38,6 +38,7 @@ helios install
 - `helios start` - start NodeManager
 - `helios stop` - stop NodeManager
 - `helios reset` - reset NodeManager
+- `helios update` - install, stop, restart if new version was downloaded
 
 #### `--help|-h`
 
@@ -76,6 +77,18 @@ $ helios stop
 ✔ NodeManager stopped successfully
 ````
 
+#### `helios update`
+
+Use for update NodeManager :
+
+````shell
+$ helios update
+✔ Installation Successfully finished.
+✔ NodeManager stopped successfully
+✔ NodeManager started successfully
+✔ Update Successfully finished.
+````
+
 #### `helios reset`
 
 Use for reset NodeManager :
@@ -86,4 +99,3 @@ $ helios reset
 ````
 
 ## License
-
