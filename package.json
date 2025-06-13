@@ -1,6 +1,6 @@
 {
   "name": "@helios-chain-labs/helios-cli",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "simple CLI for helios node",
   "main": "index.js",
   "bin": {
@@ -27,7 +27,6 @@
     "del": "^6.0.0",
     "ethers": "^6.13.4",
     "express": "^4.17.1",
-    "glob": "^7.1.6",
     "livereload": "^0.9.1",
     "open": "^7.3.0",
     "ora": "^5.1.0",
