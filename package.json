@@ -1,6 +1,6 @@
 {
   "name": "@helios-chain-labs/helios-cli",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "simple CLI for helios node",
   "main": "index.js",
   "bin": {
@@ -24,6 +24,7 @@
     "@ethersproject/json-wallets": "^5.8.0",
     "@helios-chain-labs/address-converter": "^0.1.0",
     "connect-livereload": "^0.6.1",
+    "decimal.js": "^10.5.0",
     "del": "^6.0.0",
     "dockerode": "^4.0.7",
     "ethers": "^6.13.4",
