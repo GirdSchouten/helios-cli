@@ -1,6 +1,6 @@
 {
   "name": "@helios-chain-labs/helios-cli",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "description": "simple CLI for helios node",
   "main": "index.js",
   "bin": {
